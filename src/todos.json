@@ -1,0 +1,23 @@
+{
+  "todos": [
+    {
+      "title": "Task 1",
+      "responsible": "simon",
+      "description": "hacer tarea",
+      "priority":"low"
+    },
+
+    {
+      "title": "Task 2",
+      "responsible": "Clark",
+      "description": "Buscar documentos",
+      "priority":"medium"
+    },
+    {
+      "title": "Task 3",
+      "responsible": "Maria",
+      "description": "Gestionar proyectos",
+      "priority":"high"
+    }
+  ]
+}
